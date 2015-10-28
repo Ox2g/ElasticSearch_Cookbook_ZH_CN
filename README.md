@@ -1,2 +1,2 @@
-# ElasticSearch_Cookbook_ZH_CN
+# ElasticSearch_Cookbook 中文版
 The Chinese Version For ElasticSearch Cookbook
