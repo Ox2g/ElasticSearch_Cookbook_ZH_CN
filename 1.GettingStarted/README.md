@@ -17,7 +17,7 @@
 
 本章节的目标是提供读者ElasticSearch的基础概念的概述和参照。毕竟，了解这些基础还是十分重要的，这样也就可以避免一些ElasticSearch如何运行和如何使用的坑。
 
-本章节会涉及的核心概念有：node、index、shard、mapping/type、document和fie。
+本章节会涉及的核心概念有：node(节点)、index(索引)、shard(分片)、mapping(映射)/type(类型)、document(文档)和field(字段)。
 
 ElasticSearch既可以作为搜索引擎使用，也可以用于数据的存储。
 
